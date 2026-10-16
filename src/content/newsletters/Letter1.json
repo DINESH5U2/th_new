@@ -1,0 +1,156 @@
+{
+  "title": "NewsLetter 1",
+  "date": "2022-10-11",
+  "time": "11-05-2022, 12:00 PM to 22-05-2022, 23:59 PM",
+  "type": "Newsletter",
+  "slug": "1",
+  "image": "images/newsletter/img.jpeg",
+  "registration": "NA",
+  "recording": "NA",
+  "contestlink": "https://www.hackerrank.com/turing-hut-practice-contest-2025",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "We are super excited to get started on this initiative. Through these newsletters, we aim to share opportunities, experiences, and knowledge beyond regular academics."
+    },
+    {
+      "type": "heading",
+      "text": "Opportunities"
+    },
+    {
+      "type": "list",
+      "items": [
+        [
+          {
+            "bold": "Asia’s Biggest Ethereum Hackathon ETH India"
+          },
+          ": ",
+          {
+            "text": "ethindia.co",
+            "href": "https://ethindia.co/"
+          }
+        ],
+        [
+          {
+            "bold": "HackaNoodle Hackathon by Zomato & Blinkit"
+          },
+          ": ",
+          {
+            "text": "hackanoodle",
+            "href": "https://www.hackerearth.com/challenges/new/competitive/hackanoodle-code-to-inspire/?"
+          }
+        ],
+        [
+          {
+            "bold": "IBM zStudent Contest"
+          },
+          ": ",
+          {
+            "text": "ibm-z",
+            "href": "https://www.hackerearth.com/challenges/hackathon/ibm-z-student-contest-2022/"
+          }
+        ],
+        [
+          {
+            "bold": "DTCC Grace Hopper Codeathon"
+          },
+          ": ",
+          {
+            "text": "codeathon",
+            "href": "https://www.hackerrank.com/dtcc-gracehopper-codeathon"
+          }
+        ],
+        [
+          {
+            "bold": "Phone Pay Tech Scholars Program"
+          },
+          ": ",
+          {
+            "text": "crio.do",
+            "href": "https://www.crio.do/phonepe-tech-scholars-program/"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Highlights"
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        {
+          "text": "Hacktoberfest",
+          "href": "https://hacktoberfest.com/"
+        },
+        " is a yearly event to encourage people to contribute to open source in October. It’s a celebration of community, learning, and giving back - topped off by DigitalOcean thanking participants."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Not sure how to start? Read this blog to understand how you can contribute.",
+        "Feel free to check out the repositories at Linus Tribe to contribute.",
+        "We know it is easy to get carried away while getting your PRs merged, but remember quality is key, do not pollute the projects with unnecessary or spam PRs."
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Reading picks"
+    },
+    {
+      "type": "list",
+      "items": [
+        [
+          {
+            "bold": "But what is NextJS?"
+          },
+          "\nOut of innumerable JavaScript frameworks available, NextJS is truly one of the best choices for production applications. In this article, Rajender Katkuri, a third-year CS-AI student provides an overview of NextJS as a framework, Next's Routing & all the Rendering Strategies it offers. Read more ",
+          {
+            "text": "here",
+            "href": "https://www.rajender.dev/blog/but-what-is-nextjs"
+          }
+        ],
+        [
+          {
+            "bold": "How to Train Text Generation to Write Like George R. R. Martin"
+          },
+          "\nMarkov chains are a fairly common, and relatively simple, way to statistically model random processes. They have been used in many different domains, ranging from text generation to financial modeling. In this article, we learn how to train Markov chains to generate George R. R. Martin style text Read more ",
+          {
+            "text": "here",
+            "href": "https://www.kdnuggets.com/2019/11/markov-chains-train-text-generation.html"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Todo Problem"
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        "Here's an amazing problem you should consider solving, set by our problem setters: ",
+        {
+          "text": "problem link",
+          "href": "https://codeforces.com/contest/1726/problem/B"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        "Have something to share? Want your blog to reach a wider audience? Fill out this ",
+        {
+          "text": "form",
+          "href": "https://www.codechef.com/ICPCIN19/problems/SEGDIR"
+        },
+        " to be featured in our next newsletter."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Thanks to Bharath, Supriya, Akash, Harshita and Rukmananda for contributing to the newsletter."
+    }
+  ]
+}

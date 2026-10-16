@@ -1,0 +1,175 @@
+{
+  "title": "Turing Cup 2K23",
+  "date": "2023-03-11",
+  "time": "7:30 PM to 10:00 PM",
+  "type": "Contest",
+  "slug": "turing-cup-2023",
+  "image": "images/events/turing-cup2023.jpeg",
+  "registration": "NA",
+  "recording": "NA",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": [
+        {
+          "bold": "Turing Cup"
+        },
+        " is a National level Programming Contest conducted by Turing Hut for all the undergraduate students from across the country who are passionate about coding. As already informed, Turing Cup Round-1 is scheduled on 11th March Saturday, from 7:30pm to 10:00pm. The Round-1 contest will be conducted online. To participate in the contest, you need to register yourself at Unstop. The registration for the first round will be open until March 8th, 2023. The first round will be conducted online, and the registered participants will receive further instructions via email.To register for the contest kindly check this link here: ",
+        {
+          "text": "Registration Form",
+          "href": "https://unstop.com/o/ue5gaLR?lb=MF8vPuG"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "There will be strict plagarism check after the contest, don't try to seek help from your friends or try to help your friends, doing so both of you will get caught."
+    },
+    {
+      "type": "paragraph",
+      "text": "Feel free to reach out to us,"
+    },
+    {
+      "type": "list",
+      "items": ["Tapan: 7989773778", "Guru Bhargava : 7799553910"]
+    },
+    {
+      "type": "heading",
+      "text": "ROUND 1"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Date : 11/03/2023 - Saturday",
+        "Time : 7:30 pm to 10:00 pm",
+        "Platform : Hackerrank",
+        "Number of problems : 6",
+        "Contest format: IOI format",
+        "No penalty for wrong submissions and tie breaks are based ontime of submission.",
+        "Location: Online",
+        "Registration fee: FREE"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The top five performers of round 1 were:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Team members:\nShiven sinha - IIIT Hyderabad",
+        "Team members:\nAnkan Mahapatra - VASAVI\nDampura Venkata Sushmanth - MLRIT",
+        "Team members:\nPranab singh - IIIT D & M Kurnool",
+        "Team members:\nKishore Kumar - IIIT Hyderabad\nVidit Jain - IIIT Hyderabad",
+        "Team members:\nSatyarth Pandey - NIT,Trichy\nRishab Nahar - NIT,Trichy"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "SEMI FINALS"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Date: 25/03/2023 - Saturday",
+        "Time: 10:15 AM to 1:00 PM",
+        "Platform: Hackerrank",
+        "Number of problems: 6",
+        "Contest format: IOI format",
+        "Location: Onsite, at VNR VJIET campus",
+        "Registration fee: Rs. 100"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "TOP 61 TEAMS from round 1 are qualified for round 2\nLeaderboard:"
+    },
+    {
+      "type": "paragraph",
+      "text": "The top five performers of round 2 were:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Team members:\nDheeraja Rajreddygari - IIIT Hyderabad\nPramod Rao - IIIT Hyderabad",
+        "Team members:\nKishore Kumar - IIIT Hyderabad\nVidit Jain - IIIT Hyderabad",
+        "Team members:\nshiven sinha - IIIT Hyderabad",
+        "Team members:\nAnkan Mahapatra - VASAVI\nDampura Venkata Sushmanth - MLRIT",
+        "Team members:\nShiva Nanda - KMIT\nLaxmi Kanth - KMIT"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "FINALS"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Date: 25/03/2023 - Saturday",
+        "Time: 02:30 PM to 05:00 PM",
+        "Platform: Hackerrank",
+        "Number of problems: 6",
+        "Contest format: Lockout format",
+        "The first 5 teams which solves a problem will get the points for that problem.",
+        "That problem will not be scorable anymore. If a team solves a problem which is already solved by 5 teams, it won’t add any score to them.",
+        "The contest ends when either:",
+        "There are no more scorable problems, or 2.5 hours have elapsed.",
+        "Location : Onsite, at VNR VJIET campus",
+        "Registration fee : FREE"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "TOP 10 teams from round 2 are qualified for round 3\nLeaderboard:"
+    },
+    {
+      "type": "paragraph",
+      "text": "The teams that managed to get into the top 3 of final round and grab the prices were :"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Team members:\nShiven sinha - IIIT Hyderabad",
+        "Team members:\nKishore Kumar - IIIT Hyderabad\nVidit Jain - IIIT Hyderabad",
+        "Team members:\nPranab singh - IIIT D & M Kurnool"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Congratulations to all the winners and participants."
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        "Here are the links to the problems and editorials:\nQualification Round: ",
+        {
+          "text": "https://www.hackerrank.com/turing-cup-2k23-round-1",
+          "href": "https://www.hackerrank.com/turing-cup-2k23-round-1"
+        },
+        "\nSemi Finals Round: ",
+        {
+          "text": "https://www.hackerrank.com/turing-cup-2k23-round-2",
+          "href": "https://www.hackerrank.com/turing-cup-2k23-round-2"
+        },
+        "\nFinal Round: ",
+        {
+          "text": "https://www.hackerrank.com/turing-cup-2k23-round-3",
+          "href": "https://www.hackerrank.com/turing-cup-2k23-round-3"
+        }
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": [
+        "For more details ",
+        {
+          "text": "CLICK HERE!",
+          "href": "https://drive.google.com/file/d/1KiwvD_QynytS_SljFAQGW6uV3pAmD1cp/view"
+        }
+      ]
+    }
+  ]
+}

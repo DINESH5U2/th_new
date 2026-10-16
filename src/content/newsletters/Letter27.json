@@ -1,0 +1,225 @@
+{
+  "title": "NewsLetter 27",
+  "date": "2026-01-31",
+  "time": "31-01-2026",
+  "type": "Newsletter",
+  "slug": "27",
+  "image": "images/newsletter/img.jpeg",
+  "registration": "NA",
+  "recording": "NA",
+  "contestlink": "NA",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Greetings Readers,"
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        "The excitement continued into 2026 with the successful conduct of the ",
+        {
+          "bold": "IICPC (InterCollegiate Informatic and Competitive Programming Camp)"
+        },
+        " on January 31st, 2026 at ",
+        {
+          "bold": "VNR Vignana Jyothi Institute of Engineering and Technology"
+        },
+        ".The event brought together talented coders from various institutions, creating a vibrant atmosphere of competition, learning and collaboration."
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "Highlights"
+    },
+    {
+      "type": "gallery",
+      "images": [
+        {
+          "src": "images/newsletter/iicpc_lab.png"
+        },
+        {
+          "src": "images/newsletter/codefest2.png"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        "Team ",
+        {
+          "bold": "Turing Hut"
+        },
+        " successfully conducted the ",
+        {
+          "bold": "InterCollegiate Informatic and Competitive Programming Camp (IICPC) Prelims"
+        },
+        " at VNRVJIET, with college labs allocated for all ",
+        {
+          "bold": "187 shortlisted participants"
+        },
+        ", marking a proud milestone for the institute.VNRVJIET was the only ",
+        {
+          "bold": "non-IIT/IIIT college in Telangana"
+        },
+        ", and the only ",
+        {
+          "bold": "private college"
+        },
+        ", to be granted this prestigious opportunity, reflecting its growing reputation in the competitive programming ecosystem.This achievement stands as a testament to the efforts of ",
+        {
+          "bold": "Turing Hut"
+        },
+        " in fostering and spreading a strong competitive programming culture across the institution, while providing students with a high-quality platform to compete, learn, and grow in problem-solving and algorithmic thinking."
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "image",
+      "src": "images/newsletter/2025nsltr-021.jpg",
+      "alt": "Game of Code Play"
+    },
+    {
+      "type": "heading",
+      "text": "Game of Code Play"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. A scrambled word will be provided along with a hint from the world of coding\n2. Read the hint carefully\n3. Unscramble the letters to form the correct word"
+    },
+    {
+      "type": "heading",
+      "text": "Your <Time/> Starts Now"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "marker": "alpha",
+      "items": [
+        [
+          {
+            "bold": "TPOIRNE"
+          },
+          " → Stores address of another variable"
+        ],
+        [
+          {
+            "bold": "PHEA"
+          },
+          " → A tree-based data structure used for priority queues"
+        ],
+        [
+          {
+            "bold": "RURCESION"
+          },
+          " → Function calling itself to solve subproblems"
+        ],
+        [
+          {
+            "bold": "GNIRTS"
+          },
+          " → Sequence of characters"
+        ],
+        [
+          {
+            "bold": "MOCXELIPTYTI"
+          },
+          " → Measures efficiency of an algorithm"
+        ]
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "Interesting Reads"
+    },
+    {
+      "type": "cards",
+      "items": [
+        {
+          "image": "images/newsletter/tcs_codevita2.png",
+          "text": [
+            [
+              "Tata Consultancy Services announced the winners of the ",
+              {
+                "bold": "2026 edition of its global coding competition, TCS CodeVita™"
+              },
+              ". Zhou Jingkai secured the top honour. Vicente Opazo and Jorge Valdivia emerged as runners-up. This year’s edition marked a benchmark with ",
+              {
+                "bold": "146,922 participants"
+              },
+              ", earning TCS a new Guinness World Record...",
+              {
+                "text": "read more",
+                "href": "https://cxotoday.com/media-coverage/tcs-codevita-2026-hits-guinness-world-record-as-china-wins-top-prize/"
+              }
+            ]
+          ]
+        },
+        {
+          "image": "images/newsletter/icpc_midcentra.png",
+          "text": [
+            [
+              "Three competitive programming teams from Northwestern participated in the ",
+              {
+                "bold": "2025 International Collegiate Programming Contest’s (ICPC) North America Mid-Central Regional Contest"
+              },
+              ", held at the University of Illinois Urbana-Champaign. Together, the teams finished among the top global performers...",
+              {
+                "text": "read more",
+                "href": "https://www.mccormick.northwestern.edu/computer-science/news-events/news/articles/2026/competitive-programming-team-advances-to-2026-icpc-north-america-championship.html"
+              }
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "That wraps up our list of interesting reads. Now, it’s time to put your skills to work in the given problem section!"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "ToDo Problem"
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        "Here’s a great problem we think you’ll enjoy solving: ",
+        {
+          "text": "problem link",
+          "href": "https://codeforces.com/problemset/problem/1702/D"
+        },
+        "."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        "Have any experiences, opportunities or articles to share? Fill out this ",
+        {
+          "text": "form",
+          "href": "https://docs.google.com/forms/d/e/1FAIpQLSfdaR5IK8B9RZx-5G3cd4_G4RMsLIaHRMWpGWzTwMyuMdCeWg/viewform"
+        },
+        " to be featured in our next newsletter."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Thanks to Shreyas(23071A05U2), Vinati(23071A05D4), Anika(23071A04K4) and Amogh(23071A3208) for contributing to the newsletter."
+    },
+    {
+      "type": "paragraph",
+      "text": "a. POINTER    b. HEAP    c. RECURSION    d. STRING    e. COMPLEXITY"
+    }
+  ]
+}

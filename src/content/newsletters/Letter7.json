@@ -1,0 +1,162 @@
+{
+  "title": "NewsLetter 7",
+  "date": "2022-12-06",
+  "time": "11-05-2022, 12:00 PM to 22-05-2022, 23:59 PM",
+  "type": "Newsletter",
+  "slug": "7",
+  "image": "images/newsletter/img.jpeg",
+  "registration": "NA",
+  "recording": "NA",
+  "contestlink": "https://www.hackerrank.com/turing-hut-practice-contest-2025",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "New academic year, new faces and here we go new learning experiences & Team Turing Hut got introduced to the freshmen (Batch 2022 - 2026)."
+    },
+    {
+      "type": "heading",
+      "text": "Opportunities"
+    },
+    {
+      "type": "list",
+      "items": [
+        [
+          {
+            "bold": "Research Intern"
+          },
+          ": ",
+          {
+            "text": "careers.microsoft.com",
+            "href": "https://careers.microsoft.com/students/us/en/404"
+          }
+        ],
+        [
+          {
+            "bold": "Site Reliability Engineer Intern"
+          },
+          ": ",
+          {
+            "text": "www.linkedin.com/jobs",
+            "href": "https://www.linkedin.com/jobs/search/?currentJobId=3336197431"
+          }
+        ],
+        [
+          {
+            "bold": "Co-Op/Intern at AMD"
+          },
+          ": ",
+          {
+            "text": "careers.amd.com",
+            "href": "https://careers.amd.com/careers-home/jobs/22268"
+          }
+        ],
+        [
+          {
+            "bold": "Bharti Institute of public policy Internship"
+          },
+          ": ",
+          {
+            "text": "form.jotform.com",
+            "href": "https://form.jotform.com/200060660468449"
+          }
+        ],
+        [
+          {
+            "bold": "ISRO - Do A Project"
+          },
+          ": ",
+          {
+            "text": "www.isro.gov.in",
+            "href": "https://www.isro.gov.in/DoAProject.html"
+          }
+        ],
+        [
+          {
+            "bold": "CodeAgon By Trilogy - 2023"
+          },
+          ": ",
+          {
+            "text": "codeagon-by-trilogy",
+            "href": "https://www.interviewbit.com/contest/codeagon-by-trilogy--2023/"
+          }
+        ],
+        [
+          {
+            "bold": "Interns - 2023 Blog"
+          },
+          ": ",
+          {
+            "text": "huggingface.co",
+            "href": "https://huggingface.co/blog/interns-2023"
+          }
+        ],
+        [
+          {
+            "bold": "Winter Internship - ML at Enterpret"
+          },
+          ": ",
+          {
+            "text": "boards.greenhouse.io",
+            "href": "https://boards.greenhouse.io/enterpret/jobs/5318067003?gh_src=bacd0d7b3us"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Highlights"
+    },
+    {
+      "type": "image",
+      "src": "https://ci6.googleusercontent.com/proxy/NGKu4u_pMKEMgBJ9MvEgupak3wBUJEGQpWhwJwiyfkpaey9t6iFS5RKiWMl4-LF30LW8DNMWZyqarmw-OJEGioDWsrMby3ggfjS2wIgVAgKAOIRy7gYggrcYbdscYzubXBsQP7LPx5_B7hGhcx9XL1ZrwAY-4vE=s0-d-e1-ft#https://mcusercontent.com/fdd0c58c772c3d76189e3ccf6/images/fb9cb681-3c83-c72c-f5f4-7036fda4036d.jpeg"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Big, We recently conducted Turing Hut orientation on 2nd December. It was indeed a pleasant event which received a lot of positive responses from the batch (2022-2026). It was an informative session and our alumnus of Turing hut Gnana Deepak, who was placed at Amazon in SDE role have spoken about his coding journey. The committee members also have spoken about their achievements, experiences and given tips for coding. Turing hut is always open for students who have enthusiasm to code and learn. We are looking forward for more involvement in further events."
+    },
+    {
+      "type": "heading",
+      "text": "Reading picks"
+    },
+    {
+      "type": "list",
+      "items": [
+        [
+          {
+            "bold": "Designing Data Intensive Applications - By Martin Kleppmann (BOOK)"
+          },
+          "\nSoftware keeps changing, but the fundamental principles remain same. Data is at the center of many challenges whereas the difficult issues need to be figured out. In addition, we have an overwhelming variety of tools but What are the right choices for your application? Author Martin Kleppmann helps you navigate this diverse landscape by examining the pros and cons of various technologies for processing and storing data"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Todo Problem"
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        "Here's an amazing problem you should consider solving, set by our problem setters: ",
+        {
+          "text": "problem link",
+          "href": "https://leetcode.com/problems/maximum-number-of-balls-in-a-box/description/"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        "Have something to share? Want your blog to reach a wider audience? Fill out this ",
+        {
+          "text": "form",
+          "href": "https://docs.google.com/forms/d/e/1FAIpQLSfdaR5IK8B9RZx-5G3cd4_G4RMsLIaHRMWpGWzTwMyuMdCeWg/viewform"
+        },
+        " to be featured in our next newsletter."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Thanks to Avinash for contributing to the newsletter."
+    }
+  ]
+}

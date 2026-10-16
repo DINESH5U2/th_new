@@ -1,0 +1,78 @@
+{
+  "title": "Competitive Programming Workshop",
+  "date": "2024-05-09",
+  "time": "10:00 AM to 1:00 PM",
+  "type": "Workshop",
+  "slug": "cp-workshop-24",
+  "image": "images/events/Cp_workshop2k24.jpg",
+  "registration": "https://rb.gy/ekqvhc",
+  "recording": "https://www.youtube.com/playlist?list=PLJUqxQro1e1rSDD32JPJjIQi4dSpebFbI",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": [
+        "Greetings Juniors✨!\nTuring Hut is excited to present its \"",
+        {
+          "bold": "Competitive Programming workshop"
+        },
+        "\" exclusively for ",
+        {
+          "bold": "first"
+        },
+        " years!"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "It's a Two - Day Workshop which will be hosted Online on the 9th & 10th of May, from 10 AM to 1 PM. We'll be introducing multiple competitive coding platforms and important concepts & algorithms to help you kick start your CP Journey."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Workshop will be followed by a Practice Contest on the 10th May, from 3 PM to 5 PM. The purpose of the contest is to expose you to different types of problems and give you a contest experience. The Leaderboard will not be taken into consideration. This session will be a foundation for Coding fundamentals, so try to engage as much as possible."
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        {
+          "bold": "Open to all Branches of VNRVJIET!"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Feel free to reach out to us,"
+    },
+    {
+      "type": "list",
+      "items": ["Koushik Shanker: 739691024", "M Srikruthi: 9100972802"]
+    },
+    {
+      "type": "subheading",
+      "text": "Update #1"
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        "Here is the link to the contest and editorial:\nPractice Contest: ",
+        {
+          "text": "https://www.hackerrank.com/contests/turing-hut-workshop-practice-2k24-elixir",
+          "href": "https://www.hackerrank.com/contests/turing-hut-workshop-practice-2k24-elixir"
+        }
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": "Update #2"
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        "Here is the link to summer practice problems:\nPractice Problems: ",
+        {
+          "text": "https://www.hackerrank.com/turing-hut-summer-practice-2k24",
+          "href": "https://www.hackerrank.com/turing-hut-summer-practice-2k24"
+        }
+      ]
+    }
+  ]
+}

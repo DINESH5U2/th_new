@@ -1,0 +1,56 @@
+/* <Image>: a box sized by `.image-sizer`, with the placeholder and the
+   picture stacked on top of it. */
+.image {
+  position: relative;
+  display: inline-block;
+  overflow: hidden;
+  vertical-align: top;
+}
+
+/* An empty <svg> with the image's width and height. Being a replaced element
+   with a percentage max-width, it lets a wrapper without an explicit size
+   shrink below the image's width in narrow containers (a plain block would
+   force the full width), while keeping the aspect ratio. */
+.image-sizer {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.image img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  max-width: none;
+  margin: 0;
+  padding: 0;
+  object-fit: cover;
+}
+
+.image-placeholder {
+  transition: opacity 500ms linear;
+}
+
+.image-main {
+  transition: opacity 0.25s linear;
+}
+
+/* Images inside a post, and the hero image at the top of one: a centred
+   block (capped by an inline max-width) whose height follows its own width,
+   so the box always has the image's aspect ratio and nothing is cropped. */
+.post-image,
+.hero-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.post-image .image-sizer,
+.hero-image .image-sizer {
+  width: 100%;
+}
+
+.hero-image {
+  border-radius: 8px;
+}

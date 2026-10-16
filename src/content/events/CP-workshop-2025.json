@@ -1,0 +1,134 @@
+{
+  "title": "Competitive Programming Workshop 2025",
+  "date": "2025-07-05",
+  "time": "Day 1: 5th July 2025, 10:00 AM – 1:00 PM (Online)\nDay 2: 6th July 2025, 10:00 AM – 1:00 PM (Online)\nPractice Contest: 6th July 2025, 3:00 PM – 5:00 PM (Online)",
+  "type": "Workshop",
+  "slug": "cp-workshop-2025",
+  "image": "images/events/CP_Workshop.jpeg",
+  "registration": "https://docs.google.com/forms/d/e/1FAIpQLSeKp2FB5M8of088o7lVENLjmiqCa2bk6OQMHGC780LXxbEbBA/viewform",
+  "recording": "https://www.youtube.com/watch?v=4gl-KiJWfSQ&list=PLJUqxQro1e1osK9W4IY1wIBCmQHMYhDlr&pp=gAQB",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": [
+        "🚀 ",
+        {
+          "bold": "Greetings Juniors!"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Turing Hut is thrilled to bring you an exciting opportunity to kickstart your Competitive Programming (CP) journey with our exclusive:"
+    },
+    {
+      "type": "heading",
+      "text": "🔥 Two-Day Online Competitive Programming Workshop 🔥"
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        {
+          "bold": "📅 Dates:"
+        },
+        " 5th & 6th July 2025\n",
+        {
+          "bold": "🕙 Time:"
+        },
+        " 10:00 AM – 1:00 PM\n",
+        {
+          "bold": "📍 Mode:"
+        },
+        " Online\n",
+        {
+          "bold": "🎯 Open to:"
+        },
+        " All First-Year Students (All Branches - VNRVJIET)"
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this hands-on workshop, we’ll introduce you to:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Popular CP platforms like Codeforces, LeetCode, AtCoder, etc.",
+        "Core concepts and essential algorithms",
+        "Strategies to approach problems effectively"
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "💻 Practice Contest – 6th July, 3:00 PM to 5:00 PM"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Get a real taste of the CP battlefield!",
+        "Compete, learn, and get used to the contest environment.",
+        [
+          {
+            "italic": "(Note: Leaderboard will not be considered — this is just for practice!)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "paragraph",
+      "text": "Whether you're new to coding or want to sharpen your basics, this session will be the perfect foundation for your CP journey. So, don’t miss it!"
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        {
+          "bold": [
+            "🔗 ",
+            {
+              "text": "Register Now",
+              "href": "https://docs.google.com/forms/d/e/1FAIpQLSeKp2FB5M8of088o7lVENLjmiqCa2bk6OQMHGC780LXxbEbBA/viewform"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        {
+          "bold": "Organised by:"
+        },
+        "\nDepartment of CSE, Turing Hut, Programming Club of VNR VJIET"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        {
+          "bold": "Exclusively for 1st years, all branches!"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        {
+          "bold": "For queries:"
+        },
+        "\nBalaji: 9642296219\nJahnavi: 7207062311"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,432 @@
+{
+  "title": "Turing Cup 2k25",
+  "date": "2025-04-07",
+  "time": "08:00 PM to 10:00 PM",
+  "type": "Contest",
+  "slug": "turing-cup-2025",
+  "image": "images/events/turingcup2025.png",
+  "registration": "https://unstop.com/hackathons/turing-cup-2k25-vallurupalli-nageswara-rao-vignana-jyothi-institute-of-engineering-technology-telangana-1433278",
+  "recording": "NA",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": [
+        {
+          "bold": "Turing Cup"
+        },
+        " is a National level Programming Contest conducted by Turing Hut for all the undergraduate students from across the country who are passionate about coding.This is a competition that will test your coding prowess, speed and problem solving skills.\nThe Turing Cup will be held in two rounds :"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Round 1"
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        "The qualifier round for Turing Cup 2k25 is a ",
+        {
+          "bold": "2-hour coding contest"
+        },
+        " that will be held online on ",
+        {
+          "bold": "Hackerrank"
+        },
+        ". Short-listed candidates will be notified for the further rounds."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        {
+          "bold": "Start:"
+        },
+        " 07 April 2025, 08:00 PM\n",
+        {
+          "bold": "End:"
+        },
+        " 07 April 2025, 10:00 PM"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        {
+          "bold": "Registration:"
+        },
+        " The first round is ",
+        {
+          "bold": "FREE"
+        },
+        ", and further details will be communicated to the participants via email\n",
+        {
+          "bold": "Registration deadline:"
+        },
+        " 2:00 PM, April 5th, 2025\n\nTo register, visit ",
+        {
+          "text": "Registration Form",
+          "href": "https://unstop.com/hackathons/turing-cup-2k25-vallurupalli-nageswara-rao-vignana-jyothi-institute-of-engineering-technology-telangana-1433278"
+        },
+        "."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        {
+          "bold": "Round 1 Contest Link:"
+        },
+        " ",
+        {
+          "text": "Click Here",
+          "href": "https://www.hackerrank.com/turing-cup-2k25-round-1-qualifier"
+        },
+        "."
+      ]
+    },
+    {
+      "type": "quote",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": [
+            {
+              "bold": "Note:"
+            },
+            " There will be a strict plagiarism check after the contest. Don't try to seek help from your friends or try to help your friends, doing so both of you will get caught."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "Round 2"
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        "Round-2 (Onsite) will be held at the ",
+        {
+          "bold": "VNRVJIET Campus, Bachupally, Hyderabad"
+        },
+        " on ",
+        {
+          "bold": "19th April 2025"
+        },
+        ". Shortlisted teams for this round will be notified via email or contacted after Round 1. This round will be held on ",
+        {
+          "bold": "Codeforces"
+        },
+        " with one's team account (for teams of size 2)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        {
+          "bold": "Start:"
+        },
+        " 19 April 2025, 10:00 AM\n",
+        {
+          "bold": "End:"
+        },
+        " 19 April 2025, 01:00 PM"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        {
+          "bold": "Registration Fee:"
+        },
+        " ₹300 per team (Includes lunch and goodies).\n",
+        {
+          "bold": "Accommodation:"
+        },
+        " Available for teams from colleges outside Hyderabad."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        "The competition welcomes undergraduate students nationwide who have a passion for coding - join in and demonstrate your skills! To participate in the contest, you need to register via Unstop.\nTo register for the contest kindly check this link here: ",
+        {
+          "text": "Registration Form",
+          "href": "https://unstop.com/hackathons/turing-cup-2k25-vallurupalli-nageswara-rao-vignana-jyothi-institute-of-engineering-technology-telangana-1433278"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        {
+          "bold": "Problem Set Link:"
+        },
+        " ",
+        {
+          "text": "Click Here",
+          "href": "https://events.turinghut.org/events/turingcup-2k25/dashboard"
+        },
+        "."
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Guidelines"
+    },
+    {
+      "type": "list",
+      "items": [
+        [
+          {
+            "bold": "Eligibility:"
+          },
+          " Participation is restricted to undergraduate students only."
+        ],
+        [
+          {
+            "bold": "Team Composition:"
+          },
+          " Teams must consist of ",
+          {
+            "bold": "1-2 members"
+          },
+          ". Inter-college and inter-year teams are allowed."
+        ],
+        [
+          {
+            "bold": "Unique Participation:"
+          },
+          " Each participant may only be part of one team; violating this rule will lead to disqualification of both teams."
+        ],
+        [
+          {
+            "bold": "Plagiarism Check:"
+          },
+          " All submissions will run through a plagiarism detector, and any team involved in plagiarism will be eliminated."
+        ],
+        [
+          {
+            "bold": "Dispute Resolution:"
+          },
+          " In case of any issues, ",
+          {
+            "bold": "Turing Hut"
+          },
+          " will make a fair judgement based on the impact of the issue and the principle of fairness."
+        ]
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "Prizes & Perks"
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        "The total prize pool for this contest is ",
+        {
+          "bold": "₹75,000"
+        },
+        ":"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        "🥇 ",
+        {
+          "bold": "1st Place:"
+        },
+        " ₹30,000\n🥈 ",
+        {
+          "bold": "2nd Place:"
+        },
+        " ₹20,000\n🥉 ",
+        {
+          "bold": "3rd Place:"
+        },
+        " ₹13,000\n🏅 ",
+        {
+          "bold": "Consolation 1:"
+        },
+        " ₹7000\n🏅 ",
+        {
+          "bold": "Consolation 2:"
+        },
+        " ₹5000"
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "Winners"
+    },
+    {
+      "type": "subheading",
+      "text": "🥇 First Place"
+    },
+    {
+      "type": "list",
+      "items": [
+        [
+          {
+            "bold": "Members:"
+          },
+          " Arjun Moravekar, Saketh Ramkumar Dondapati"
+        ],
+        [
+          {
+            "bold": "College:"
+          },
+          " Indian Institute of Technology (IIT), Hyderabad"
+        ]
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": "🥈 Second Place"
+    },
+    {
+      "type": "list",
+      "items": [
+        [
+          {
+            "bold": "Member:"
+          },
+          " Sushil Raaja U"
+        ],
+        [
+          {
+            "bold": "College:"
+          },
+          " International Institute of Information Technology (IIIT), Hyderabad"
+        ]
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": "🥉 Third Place"
+    },
+    {
+      "type": "list",
+      "items": [
+        [
+          {
+            "bold": "Members:"
+          },
+          " Venkata Mahesh Reddy Yeruva, Sree Charan Reddy Pacharla"
+        ],
+        [
+          {
+            "bold": "College:"
+          },
+          " Indian Institute of Information Technology, Design and Manufacturing (IIITDM), Kurnool"
+        ]
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": "🏅 Fourth Place"
+    },
+    {
+      "type": "list",
+      "items": [
+        [
+          {
+            "bold": "Members:"
+          },
+          " Kodam Nithin, Rajavardhan Kommala"
+        ],
+        [
+          {
+            "bold": "College:"
+          },
+          " Vallurupalli Nageswara Rao Vignana Jyothi Institute of Engineering & Technology, Telangana"
+        ]
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": "🏅 Fifth Place"
+    },
+    {
+      "type": "list",
+      "items": [
+        [
+          {
+            "bold": "Members:"
+          },
+          " Karthik Kondaveeti, Aanshik Sadh"
+        ],
+        [
+          {
+            "bold": "College:"
+          },
+          " Vallurupalli Nageswara Rao Vignana Jyothi Institute of Engineering & Technology, Telangana"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "🎓 Certificates"
+    },
+    {
+      "type": "list",
+      "items": [
+        [
+          {
+            "italic": "Participation Certificates"
+          },
+          " for all ",
+          {
+            "bold": "Final Round"
+          },
+          " participants."
+        ],
+        [
+          {
+            "italic": "Merit Certificates"
+          },
+          " for top-performing teams."
+        ]
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        {
+          "bold": "Link to Leaderboard:"
+        },
+        " ",
+        {
+          "text": "https://events.turinghut.org/events/turingcup-2k25/leaderboard",
+          "href": "https://events.turinghut.org/events/turingcup-2k25/leaderboard"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Need Help"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have any queries, contact:"
+    },
+    {
+      "type": "list",
+      "items": ["Koushik: 7396910024", "Divya: 9704606266"]
+    }
+  ]
+}

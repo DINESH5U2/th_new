@@ -1,0 +1,246 @@
+{
+  "title": "NewsLetter 28",
+  "date": "2026-08-23",
+  "time": "23-08-2026",
+  "type": "Newsletter",
+  "slug": "28",
+  "image": "images/newsletter/img.jpeg",
+  "registration": "NA",
+  "recording": "NA",
+  "contestlink": "NA",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Greetings Readers,"
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        "The excitement continued in 2026 with the successful conduct of ",
+        {
+          "bold": "Turing Cup 2K26"
+        },
+        ", Turing Hut’s flagship competitive coding contest, organized by the official Competitive Programming Club of ",
+        {
+          "bold": "VNR Vignana Jyothi Institute of Engineering and Technology"
+        },
+        ". The contest brought together passionate coders from across leading institutions, creating an intense atmosphere of competition, problem-solving, and learning."
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "Highlights"
+    },
+    {
+      "type": "subheading",
+      "text": "Turing Cup 2K26 – One Team. One Dream"
+    },
+    {
+      "type": "gallery",
+      "images": [
+        {
+          "src": "images/newsletter/tc26_main.png",
+          "alt": "Turing Cup 2K26"
+        },
+        {
+          "src": "images/newsletter/tc26_sub2.png",
+          "alt": "Turing Cup 2K26"
+        },
+        {
+          "src": "images/newsletter/tc26_sub1.png",
+          "alt": "Turing Cup 2K26"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        "The flagship national-level coding contest of Turing Hut, ",
+        {
+          "bold": "Turing Cup 2K26"
+        },
+        ", brought together ",
+        {
+          "bold": "1667 teams from 365 colleges"
+        },
+        " across India, with participation spanning ",
+        {
+          "bold": "23 states"
+        },
+        " and international representation from ",
+        {
+          "bold": "Bangladesh"
+        },
+        "."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        [
+          {
+            "bold": "Online Qualifier:"
+          },
+          " HackerRank (February 28, 2026)"
+        ],
+        [
+          {
+            "bold": "Grand Finale:"
+          },
+          " Codeforces at VNRVJIET (March 18, 2026)"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The contest showcased unmatched competitive spirit, teamwork, and coding excellence, bringing together talented programmers from across the country in one of the year's most exciting competitive programming battles."
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "image",
+      "src": "images/newsletter/game_of_code_play_28.png",
+      "alt": "Game of Code Play"
+    },
+    {
+      "type": "heading",
+      "text": "Game of Code Play"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. A scrambled word will be provided along with a hint from the world of coding\n2. Read the hint carefully\n3. Unscramble the letters to form the correct word"
+    },
+    {
+      "type": "heading",
+      "text": "Your <Time/> Starts Now"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "marker": "alpha",
+      "items": [
+        [
+          {
+            "bold": "OLEBANO"
+          },
+          " → A data type that can only hold one of two possible values."
+        ],
+        [
+          {
+            "bold": "RPECIMLO"
+          },
+          " → Translates your high-level source code into machine language."
+        ],
+        [
+          {
+            "bold": "XATNYS"
+          },
+          " → The strict rules that dictate how a programming language must be written."
+        ],
+        [
+          {
+            "bold": "MATORLIGH"
+          },
+          " → A step-by-step set of instructions used to solve a specific problem."
+        ],
+        [
+          {
+            "bold": "GIDGEUBNG"
+          },
+          " → The tedious (but rewarding) process of finding and fixing errors in your code."
+        ]
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "Interesting Reads"
+    },
+    {
+      "type": "cards",
+      "items": [
+        {
+          "image": "images/newsletter/arctic_vault.png",
+          "text": [
+            [
+              {
+                "bold": "The Arctic Code Vault"
+              },
+              ": In an effort to preserve open-source software for future generations, 21 terabytes of repository data were successfully deposited into the Arctic World Archive. This \"code vault\" is hidden 250 meters deep inside a permafrost mountain in Svalbard, Norway, designed to last for a thousand years...",
+              {
+                "text": "read more",
+                "href": "https://archiveprogram.github.com/arctic-vault/"
+              }
+            ]
+          ]
+        },
+        {
+          "image": "images/newsletter/tourist_codejam.png",
+          "text": [
+            [
+              {
+                "bold": "The Undefeated Code Jam Champion"
+              },
+              ": Gennady Korotkevich, known online as ",
+              {
+                "bold": "\"tourist\""
+              },
+              ", is widely considered one of the greatest competitive programmers of all time. He holds the unprecedented record of winning the prestigious global Google Code Jam tournament for seven consecutive years, a streak that remained unbroken until the competition's retirement...",
+              {
+                "text": "read more",
+                "href": "https://en.wikipedia.org/wiki/Gennady_Korotkevich"
+              }
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "That wraps up our list of interesting reads. Now, it’s time to put your skills to work in the given problem section!"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "ToDo Problem"
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        "Here’s a great problem we think you’ll enjoy solving: ",
+        {
+          "text": "problem link",
+          "href": "https://codeforces.com/problemset/problem/2242/D"
+        },
+        "."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        "Have any experiences, opportunities or articles to share? Fill out this ",
+        {
+          "text": "form",
+          "href": "https://docs.google.com/forms/d/e/1FAIpQLSfdaR5IK8B9RZx-5G3cd4_G4RMsLIaHRMWpGWzTwMyuMdCeWg/viewform"
+        },
+        " to be featured in our next newsletter."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Thanks to Harshini(24071A05M6), Anirudh(24071A0556), Yogitha(24071A05G9), Kruthikha(24071A6729) and Jigna(24071A67G5) for contributing to the newsletter."
+    },
+    {
+      "type": "paragraph",
+      "text": "a. BOOLEAN    b. COMPILER    c. SYNTAX    d. ALGORITHM    e. DEBUGGING"
+    }
+  ]
+}

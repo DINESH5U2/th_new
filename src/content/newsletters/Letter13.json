@@ -1,0 +1,115 @@
+{
+  "title": "NewsLetter 13",
+  "date": "2023-04-23",
+  "time": "05-02-2023, 12:00 PM to 22-05-2022, 23:59 PM",
+  "type": "Newsletter",
+  "slug": "13",
+  "image": "images/newsletter/img.jpeg",
+  "registration": "NA",
+  "recording": "NA",
+  "contestlink": "https://www.hackerrank.com/turing-hut-practice-contest-2025",
+  "body": [
+    {
+      "type": "heading",
+      "text": "Opportunities"
+    },
+    {
+      "type": "list",
+      "items": [
+        [
+          {
+            "text": "Graphic Designing Internship",
+            "href": "https://unstop.com/internships/graphic-designing-internship-analyser-studio-669431"
+          }
+        ],
+        [
+          {
+            "text": "Business Ideathon",
+            "href": "https://unstop.com/hackathons/business-ideathon-university-college-of-engineering-osmania-university-uceou-hyderabad-669363"
+          }
+        ],
+        [
+          {
+            "text": "Code for Good - DevFolio",
+            "href": "https://hackelevate.devfolio.co/"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Highlights"
+    },
+    {
+      "type": "image",
+      "src": "https://ci4.googleusercontent.com/proxy/4DQc8RJJm8hSeb7yMAyDiwd1ngdY1kZtaUnnzHN73ivT4xhWc3fvodkPO_nx3YwfHwVNoNhduOC5OOBdA-j9oDcTtlYtACnOZ1Ek65vGia__P8kg9ISaoQBomlE9jEw_zZhBf4PM4HWM4MRX8-V48twvdB2Brw=s0-d-e1-ft#https://mcusercontent.com/17aa3e32a29b75850b6f118ee/images/be3f2ada-e59f-2be0-cc72-799b4137d802.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        "Have you heard about OpenAI's bug bounty program? OpenAI is on a mission to create artificial intelligence that benefits everyone, but sometimes there can be vulnerabilities in the system. They're inviting tech enthusiasts and ethical hackers to help them identify and fix these issues. They're even offering incentives for qualifying vulnerability information. So if you're good at finding and fixing these kinds of problems, you could get paid for your expertise! To know more, follow this ",
+        {
+          "text": "link",
+          "href": "https://openai.com/blog/bug-bounty-program"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "Interesting Reads"
+    },
+    {
+      "type": "list",
+      "items": [
+        [
+          {
+            "bold": "Pandas vs. Polars: A Syntax and Speed Comparison"
+          },
+          "\nPandas is an essential Python library for Data Science. But its biggest downside is that it can be slow for operations on large datasets. Polars is a Pandas alternative designed to process data faster. Read more ",
+          {
+            "text": "here",
+            "href": "https://towardsdatascience.com/pandas-vs-polars-a-syntax-and-speed-comparison-5aa54e27497e"
+          }
+        ],
+        [
+          {
+            "bold": "Extreme Rare Event Classification using Autoencoders in Keras"
+          },
+          "\nIn a rare-event problem, we have an unbalanced dataset. Meaning, we have fewer positively labeled samples than negative. In a typical rare-event problem, the positively labeled data are around 5–10% of the total. In an extreme rare event problem, we have less than 1% positively labeled data. Read more ",
+          {
+            "text": "here",
+            "href": "https://medium.com/towards-data-science/extreme-rare-event-classification-using-autoencoders-in-keras-a565b386f098"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Todo Problem"
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        "Here's an amazing problem, you should check out: ",
+        {
+          "text": "problem link",
+          "href": "https://leetcode.com/problems/substring-with-concatenation-of-all-words/"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        "Do you want to share any opportunity, blog, or experience? Fill out this ",
+        {
+          "text": "form",
+          "href": "https://forms.gle/uidTBY1e3cALgHtC6"
+        },
+        " to be featured in our next newsletter."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "title": "Project Halloween",
+  "date": "2022-11-09",
+  "time": "10:00 AM to 4:40 PM",
+  "type": "Contest",
+  "slug": "project-halloween",
+  "image": "images/events/halloween-poster.jpeg",
+  "registration": "https://forms.gle/7duETapDudmZANV19",
+  "recording": "NA",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": [
+        {
+          "bold": "PROJECT HALLOWEEN"
+        },
+        " is a theme based Coding Contest conducted by Turing Hut for ",
+        {
+          "bold": "second and third years of all branches of VNR VJIET"
+        },
+        ". As already informed, Project Halloween is scheduled on 9th November Wednesday ,from 10:00am to 4:40pm. The contest will be conducted offline and all of you are requested to be present in your allocated labs in time."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        "To register for the contest kindly fill this google form by 2nd november: ",
+        {
+          "text": "Registration Form",
+          "href": "https://forms.gle/7duETapDudmZANV19"
+        },
+        ". The registration fee is Rs.50 per team."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "It will be conducted in 3 rounds in which students can participate in teams of size 2-3."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Round 1 : Collecting weapons",
+        "Round 2 : Map the Graveyard",
+        "Round 3 : Level 1 - Steps to reach the hut\nLevel 2 - Crack the haunted mystery"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Utilize this opportunity to work in teams and improve your problem-solving capabilities. Feel free to reach out to us,"
+    },
+    {
+      "type": "list",
+      "items": ["Tapan: 7989773778", "Guru Bhargava : 7799553910"]
+    },
+    {
+      "type": "paragraph",
+      "text": "Do participate and win exciting cash prizes."
+    },
+    {
+      "type": "subheading",
+      "text": "Update #1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Leaderboard:"
+    },
+    {
+      "type": "paragraph",
+      "text": "The teams that managed to solve the haunted mystery and grab the prices were :"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Team Name: RIP\nG Hemanth Varma - 3rd CSE-AIML\nBhavanam Santhosh Reddy - 3rd CSE-AIML\nChimma Akhil - 3rd CSE-AIML",
+        "Team Name: The aspirers\nJigeesh Chowdhary - 3rd CSE\nJishnu Pulipaka - 3rd CSE\nKESIREDDY ANIL REDDY - 3rd CSE",
+        "Team Name: Callisto\nChitimuti Hitaish Kumar Reddy - 3rd CSE-DS\nYathin Rasineni - 3rd CSE-DS\nNeeraj Ashish -3rd CSE-DS"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "And the best dressed team was :"
+    },
+    {
+      "type": "paragraph",
+      "text": "Team Halloweed:\nKarumanchi tarun\nMalloju sathvika\nJaka siri"
+    },
+    {
+      "type": "paragraph",
+      "text": "Congratulations to all the winners and participants."
+    },
+    {
+      "type": "subheading",
+      "text": "Update #2"
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        "Here are the links to the problems and editorials:\nRound 1: ",
+        {
+          "text": "https://drive.google.com/file/d/1F1YtQmWg-Gp9NHfCYBvO0bsn6Jtld1m7/view?usp=sharing",
+          "href": "https://drive.google.com/file/d/1F1YtQmWg-Gp9NHfCYBvO0bsn6Jtld1m7/view?usp=sharing"
+        },
+        "\nRound 2: ",
+        {
+          "text": "https://docs.google.com/document/d/1eaJhBo_gvioT7gk_bq4xZq6AMSI5Phxu7ic878oMnYE/edit?usp=sharing",
+          "href": "https://docs.google.com/document/d/1eaJhBo_gvioT7gk_bq4xZq6AMSI5Phxu7ic878oMnYE/edit?usp=sharing"
+        },
+        "\nRound 3-1: ",
+        {
+          "text": "https://www.hackerrank.com/steps-to-reach-the-hut",
+          "href": "https://www.hackerrank.com/steps-to-reach-the-hut"
+        },
+        "\nRound 3-2: ",
+        {
+          "text": "https://www.hackerrank.com/crack-the-haunted-mystery",
+          "href": "https://www.hackerrank.com/crack-the-haunted-mystery"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "title": "Code Frenzy 2022",
+  "date": "2022-06-15",
+  "time": "12:40 PM to 3:45 PM",
+  "type": "Contest",
+  "slug": "code-frenzy-22",
+  "image": "images/events/code_frenzy.jpeg",
+  "registration": "https://forms.gle/3fBQERLNcPYVgQE2A",
+  "recording": "NA",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": [
+        {
+          "bold": "Code Frenzy"
+        },
+        " is a Programming Contest conducted by Turing Hut Only for ",
+        {
+          "bold": "first years of CSE and CSBS"
+        },
+        " to introduce them to competitive programming. As already informed, Code Frenzy is scheduled on 15th June Wednesday ,from 12:40pm to 3:45pm. The contest will be conducted offline and all of you are requested to be present in your allocated labs in time."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        "To register for the contest kindly fill this google form by tonight: ",
+        {
+          "text": "Registration Form",
+          "href": "https://forms.gle/3fBQERLNcPYVgQE2A"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "There will be strict plagarism check after the contest, don't try to seek help from your friends or try to help your friends, doing so both of you will get caught."
+    },
+    {
+      "type": "paragraph",
+      "text": "Feel free to reach out to us,"
+    },
+    {
+      "type": "list",
+      "items": ["Tapan: 7989773778", "Guru Bhargava : 7799553910"]
+    },
+    {
+      "type": "paragraph",
+      "text": "Wishing you all the best for the contest."
+    },
+    {
+      "type": "subheading",
+      "text": "Update #1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Leaderboard:"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "R Sai Charan Goud - 21071A05H7 - CSE3",
+        "K Sreekar Vyas - 21071A0535 - CSE1",
+        "L Rahul - 21071A3241 - CSBS",
+        "D Nisritha - 21071A05M8 - CSE4",
+        "B Rithika Reddy - 21071A0571 - CSE2"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        "Here is the link to the contest and editorial:\ncontest-link: ",
+        {
+          "text": "https://www.hackerrank.com/code-frenzy-2022",
+          "href": "https://www.hackerrank.com/code-frenzy-2022"
+        }
+      ]
+    }
+  ]
+}

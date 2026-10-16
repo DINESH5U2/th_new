@@ -1,0 +1,294 @@
+{
+  "title": "Hack4SDG 2024",
+  "date": "2024-08-29",
+  "time": "1:00 PM to 3:30 PM",
+  "type": "Hackathon",
+  "slug": "hack4sdg-2k24",
+  "image": "images/events/hack4-sdg-2k24.jpg",
+  "registration": "https://docs.google.com/forms/d/e/1FAIpQLScKb_LPauZYAlpdGXnT-GJIoNyv1qv-BFUUzyjCuFnrEPlMbw/viewform",
+  "recording": "NA",
+  "body": [
+    {
+      "type": "heading",
+      "text": "Hack4SDG: Innovate for a Sustainable Future!"
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        "In collaboration with ",
+        {
+          "bold": "IIT Hyderabad"
+        },
+        ", Turing Hut is excited to bring you ",
+        {
+          "bold": "Hack4SDG"
+        },
+        " - an ",
+        {
+          "bold": "Ideathon"
+        },
+        " open to all branches! This is your opportunity to innovate and create solutions that align with the ",
+        {
+          "bold": "UN’s Sustainable Development Goals (SDGs)"
+        },
+        "."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Join forces with peers, brainstorm, and develop impactful ideas. Don’t miss the chance to collaborate with one of India’s premier institutions."
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "🗓 Event Details"
+    },
+    {
+      "type": "list",
+      "items": [
+        [
+          {
+            "bold": "Date"
+          },
+          ": August 29, 2024"
+        ],
+        [
+          {
+            "bold": "Time"
+          },
+          ": 1:00 PM - 3:30 PM"
+        ],
+        [
+          {
+            "bold": "Mode"
+          },
+          ": Online (Round 1)"
+        ],
+        [
+          {
+            "bold": "Venue"
+          },
+          ": On Campus (Round 2)"
+        ],
+        [
+          {
+            "bold": "Type"
+          },
+          ": Hackathon / Ideathon"
+        ],
+        [
+          {
+            "bold": "Partner Institution"
+          },
+          ": IIT Hyderabad"
+        ]
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "📝 Registration"
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        "To register, fill out the Google Form by ",
+        {
+          "bold": "August 29, 2024, 11:59 PM (Thursday)"
+        },
+        "."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        "👉 ",
+        {
+          "text": [
+            {
+              "bold": "Registration Form"
+            }
+          ],
+          "href": "https://docs.google.com/forms/d/e/1FAIpQLScSmY26qyNNjNJ6c9AJfcb_QoWuNSYFxHGPuAnLsDESj3HOWg/closedform"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "🏆 Rounds"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": [
+            {
+              "bold": "Round 1"
+            },
+            ":"
+          ],
+          "items": [
+            [
+              {
+                "bold": "Format"
+              },
+              ": PPT Submission"
+            ],
+            [
+              {
+                "bold": "Date"
+              },
+              ": August 29, 2024"
+            ],
+            [
+              {
+                "bold": "Mode"
+              },
+              ": Online"
+            ]
+          ]
+        },
+        {
+          "text": [
+            {
+              "bold": "Round 2"
+            },
+            ":"
+          ],
+          "items": [
+            [
+              {
+                "bold": "Format"
+              },
+              ": Idea Pitching"
+            ],
+            [
+              {
+                "bold": "Date"
+              },
+              ": September 13, 2024"
+            ],
+            [
+              {
+                "bold": "Venue"
+              },
+              ": On Campus"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": [
+        "🔗 ",
+        {
+          "text": "Problem Statements",
+          "href": "https://docs.google.com/document/d/1AuhjGjJFo3pRqoK4TMRv9-Ptnf8qboasioShQfsd0Aw/edit"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "❓ Have Questions?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Feel free to reach out to our team:"
+    },
+    {
+      "type": "list",
+      "items": [
+        [
+          {
+            "bold": "Koushik"
+          },
+          ": 7396910024"
+        ],
+        [
+          {
+            "bold": "Divya"
+          },
+          ": 9704606266"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "We look forward to seeing your innovative solutions. Good luck to all participants!"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "subheading",
+      "text": "Update #1"
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        {
+          "bold": "Top Teams"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "header": ["S.No", "Team Name", "Team Leader", "Year", "Branch"],
+      "rows": [
+        ["1", "Agrigen Innovators", "V Pavan Praneeth", "3rd", "CSE"],
+        ["2", "Hustle Squad", "G. Sri Harika", "2nd", "CSE-DS"],
+        ["3", "CraftEra", "P. Haasini", "2nd", "CSE-DS"],
+        ["4", "Wellness Innovators!", "Rayhan Shaheer", "2nd", "CSE-IOT"],
+        ["5", "Trash_Transformers", "Chanda Vishwanath Raja", "2nd", "CSE"],
+        ["6", "TEAM TECHFLOW", "Sri Sai Ganesh", "3rd", "CSE"],
+        ["7", "Edu Reboot", "Kalyan Tingani", "3rd", "CSE"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        {
+          "bold": "Runner Ups:"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "header": ["S.No", "Team Name", "Team Leader", "Year", "Branch"],
+      "rows": [
+        ["1", "Green Guardians", "Pettem Akhilvarsh", "2nd", "CSE-AIML"],
+        [
+          "2",
+          "The Capybaras",
+          "Pasumarthi Sai Srinivasa Kaushik",
+          "2nd",
+          "CSE-AIML"
+        ],
+        ["3", "NourishNet", "Pranathi Gudipally", "3rd", "IT"]
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        {
+          "bold": "Hack4SDG: Innovate. Collaborate. Impact."
+        }
+      ]
+    }
+  ]
+}

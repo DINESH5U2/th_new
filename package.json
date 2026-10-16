@@ -1,0 +1,48 @@
+{
+  "name": "turing-hut",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Turing-hut",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint .",
+    "format": "prettier --write \"**/*.{js,jsx,json,md}\""
+  },
+  "dependencies": {
+    "@emotion/react": "11.13.3",
+    "@emotion/styled": "11.13.0",
+    "@fontsource-variable/instrument-sans": "^5.3.0",
+    "@fontsource-variable/jetbrains-mono": "^5.3.0",
+    "@fontsource-variable/newsreader": "^5.3.0",
+    "@fontsource-variable/unbounded": "^5.3.0",
+    "@mui/icons-material": "6.1.6",
+    "@mui/material": "6.1.6",
+    "@mui/utils": "6.1.6",
+    "add-to-calendar-button": "2.7.3",
+    "gsap": "3.13.0",
+    "posthog-js": "1.260.2",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "react-helmet-async": "^3.0.0",
+    "react-router-dom": "^6.30.6",
+    "react-vertical-timeline-component": "3.6.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@vitejs/plugin-react": "^6.1.2",
+    "eslint": "^10.12.0",
+    "eslint-plugin-react-hooks": "^7.1.1",
+    "eslint-plugin-react-refresh": "^0.5.7",
+    "globals": "^17.13.0",
+    "prettier": "^3.9.10",
+    "vite": "^8.3.4",
+    "vite-imagetools": "^12.0.1"
+  },
+  "allowScripts": {
+    "core-js@3.50.0": true,
+    "react-vertical-timeline-component@3.6.0": true
+  }
+}

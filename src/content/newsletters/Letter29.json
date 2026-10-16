@@ -1,0 +1,227 @@
+{
+  "title": "NewsLetter 29",
+  "date": "2026-08-23",
+  "time": "23-08-2026",
+  "type": "Newsletter",
+  "slug": "29",
+  "image": "images/newsletter/img.jpeg",
+  "registration": "NA",
+  "recording": "NA",
+  "contestlink": "NA",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Greetings Readers,"
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        "The competitive spirit continued with ",
+        {
+          "bold": "CodeFrenzy 2K26"
+        },
+        ", a coding contest conducted exclusively for second-year students by Turing Hut, the official Competitive Programming Club of ",
+        {
+          "bold": "VNR Vignana Jyothi Institute of Engineering and Technology"
+        },
+        ". The event provided participants with an opportunity to challenge their coding and problem-solving skills, with the top performers earning a place in Turing Hut’s Peer-to-Peer Learning Sessions, fostering a culture of collaborative learning and competitive programming."
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "Highlights"
+    },
+    {
+      "type": "subheading",
+      "text": "CodeFrenzy 2K26 – Selection Contest for 2nd Years"
+    },
+    {
+      "type": "gallery",
+      "images": [
+        {
+          "src": "images/newsletter/cf26_main.png",
+          "alt": "CodeFrenzy 2K26"
+        },
+        {
+          "src": "images/newsletter/cf26_sub1.png",
+          "alt": "CodeFrenzy 2K26"
+        },
+        {
+          "src": "images/newsletter/cf26_sub2.png",
+          "alt": "CodeFrenzy 2K26"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        "CodeFrenzy 2K26 brought together ",
+        {
+          "bold": "299 second-year students"
+        },
+        " for an onsite coding contest held in the E-Block Labs on ",
+        {
+          "bold": "July 18, 2026"
+        },
+        ". The contest featured 8 problems covering topics such as greedy algorithms, mathematical and logical reasoning, game theory, number theory, hashing, computational geometry, and combinatorics."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        "The event also served as a selection platform for Turing Hut’s ",
+        {
+          "bold": "Peer-to-Peer Competitive Programming Sessions"
+        },
+        ", with ",
+        {
+          "bold": "79 students selected"
+        },
+        " based on their contest performance, competitive programming experience, platform ratings, problems solved, and interest in CP."
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "image",
+      "src": "images/newsletter/game_of_code_play_28.png",
+      "alt": "Game of Code Play"
+    },
+    {
+      "type": "heading",
+      "text": "Game of Code Play"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. A scrambled word will be provided along with a hint from the world of coding\n2. Read the hint carefully\n3. Unscramble the letters to form the correct word"
+    },
+    {
+      "type": "heading",
+      "text": "Your <Time/> Starts Now"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "marker": "alpha",
+      "items": [
+        [
+          {
+            "bold": "ZIOMTAEMOIN"
+          },
+          " → Storing previously calculated results to avoid redundant work in top-down dynamic programming."
+        ],
+        [
+          {
+            "bold": "EDEYRG"
+          },
+          " → An algorithmic paradigm that makes the locally optimal choice at each stage to find a global optimum."
+        ],
+        [
+          {
+            "bold": "IRET"
+          },
+          " → A prefix tree data structure frequently used for fast string matching and XOR maximization."
+        ],
+        [
+          {
+            "bold": "NIKCGARCKTAB"
+          },
+          " → An algorithmic technique that explores all possible solutions and abandons paths as soon as they fail constraints."
+        ],
+        [
+          {
+            "bold": "TSIDJRAK"
+          },
+          " → A classic algorithm used to find the shortest path from a single source in a graph with non-negative edge weights."
+        ]
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "Interesting Reads"
+    },
+    {
+      "type": "cards",
+      "items": [
+        {
+          "image": "images/newsletter/sequel_origin.png",
+          "text": [
+            [
+              {
+                "bold": "The Origin of \"SEQUEL\""
+              },
+              ": The relational database language we use today was originally developed at IBM in the 1970s by Donald Chamberlin and Raymond Boyce. It was initially named SEQUEL (Structured English Query Language), but the name had to be shortened simply because a UK-based aircraft manufacturer already held the trademark for the word...",
+              {
+                "text": "read more",
+                "href": "https://en.wikipedia.org/wiki/SQL"
+              }
+            ]
+          ]
+        },
+        {
+          "image": "images/newsletter/python_github.png",
+          "text": [
+            [
+              {
+                "bold": "Python Overtakes the Giants"
+              },
+              ": After years of JavaScript dominating developer ecosystems, Python officially became the most-used language on GitHub. This historic shift was largely driven by the massive surge in artificial intelligence, machine learning, and data science projects, alongside its heavy adoption in academic and competitive coding environments...",
+              {
+                "text": "read more",
+                "href": "https://github.blog/2023-11-08-the-state-of-open-source-and-ai/"
+              }
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "That wraps up our list of interesting reads. Now, it’s time to put your skills to work in the given problem section!"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "ToDo Problem"
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        "Here’s a great problem we think you’ll enjoy solving: ",
+        {
+          "text": "problem link",
+          "href": "https://codeforces.com/problemset/problem/2241/D"
+        },
+        "."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        "Have any experiences, opportunities or articles to share? Fill out this ",
+        {
+          "text": "form",
+          "href": "https://docs.google.com/forms/d/e/1FAIpQLSfdaR5IK8B9RZx-5G3cd4_G4RMsLIaHRMWpGWzTwMyuMdCeWg/viewform"
+        },
+        " to be featured in our next newsletter."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Thanks to Harshini(24071A05M6), Anirudh(24071A0556), Yogitha(24071A05G9), Kruthikha(24071A6729) and Jigna(24071A67G5) for contributing to the newsletter."
+    },
+    {
+      "type": "paragraph",
+      "text": "a. MEMOIZATION    b. GREEDY    c. TRIE    d. BACKTRACKING    e. DIJKSTRA"
+    }
+  ]
+}

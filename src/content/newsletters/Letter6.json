@@ -1,0 +1,130 @@
+{
+  "title": "NewsLetter 6",
+  "date": "2022-11-28",
+  "time": "11-05-2022, 12:00 PM to 22-05-2022, 23:59 PM",
+  "type": "Newsletter",
+  "slug": "6",
+  "image": "images/newsletter/img.jpeg",
+  "registration": "NA",
+  "recording": "NA",
+  "contestlink": "https://www.hackerrank.com/turing-hut-practice-contest-2025",
+  "body": [
+    {
+      "type": "heading",
+      "text": "Opportunities"
+    },
+    {
+      "type": "list",
+      "items": [
+        [
+          {
+            "bold": "Intern Technical Content Engineer - Programming"
+          },
+          ": ",
+          {
+            "text": "www.hackerearth.com/careers",
+            "href": "https://www.hackerearth.com/careers/#op-549948-intern-technical-content-engineerprogramming"
+          }
+        ],
+        [
+          {
+            "bold": "Kotak Kanya Scholarship"
+          },
+          ": ",
+          {
+            "text": "www.buddy4study.com",
+            "href": "https://www.buddy4study.com/page/kotak-kanya-scholarship?cuid=em__20220811_1"
+          }
+        ],
+        [
+          {
+            "bold": "Cyient Graduate Engineer Trainee"
+          },
+          ": ",
+          {
+            "text": "cyient.wd3.myworkdayjobs.com",
+            "href": "https://cyient.wd3.myworkdayjobs.com/careers/job/Hyderabad-India/Trainee_JR-035976"
+          }
+        ],
+        [
+          {
+            "bold": "Infosys Instep Internship"
+          },
+          ": ",
+          {
+            "text": "careers.infosys.com",
+            "href": "https://careers.infosys.com/instep/internship/instepregistrationpage.aspx"
+          }
+        ],
+        [
+          {
+            "bold": "Software Design Engineer Intern - Frontend"
+          },
+          ": ",
+          {
+            "text": "www.merkle.com",
+            "href": "https://www.merkle.com/emea/careers/all-openings/743999789064369"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Reading picks"
+    },
+    {
+      "type": "list",
+      "items": [
+        [
+          {
+            "bold": "How to land a job through AngelList?"
+          },
+          "\nWith hiring freezes or cuts in majority of the big companies, start-ups stand as an attractive option for us freshers. Working at startups depending on its stage, helps you wear different hats and understand different aspects of business. Learn how to apply for internships at startups on angel.co, a site that lets you directly connect with the CEOs / founders of the companies Read more ",
+          {
+            "text": "here",
+            "href": "https://medium.com/@janineyorio/how-to-land-a-job-through-angellist-25f2ebe25375"
+          }
+        ],
+        [
+          {
+            "bold": "Linux tools : du & df"
+          },
+          "\nAmong of the first commands one learns in their Linux Programming class are \"du\" and \"df\". But we never really look into how these commands can be used in a real development scenario. If you to try to experiment and run these commands, both of them tend to give different results. We leave it to you to explore why that happens and let us know by replying to this email Read more ",
+          {
+            "text": "here",
+            "href": "https://www.redhat.com/sysadmin/du-vs-df"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Todo Problem"
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        "Here's an amazing problem you should consider solving, set by our problem setters: ",
+        {
+          "text": "problem link",
+          "href": "https://leetcode.com/problems/maximum-number-of-balls-in-a-box/description/"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        "Have something to share? Want your blog to reach a wider audience? Fill out this ",
+        {
+          "text": "form",
+          "href": "https://docs.google.com/forms/d/e/1FAIpQLSfdaR5IK8B9RZx-5G3cd4_G4RMsLIaHRMWpGWzTwMyuMdCeWg/viewform"
+        },
+        " to be featured in our next newsletter."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Thanks to Bharath, Supriya for contributing to the newsletter."
+    }
+  ]
+}

@@ -1,0 +1,442 @@
+{
+  "title": "CodeNox 2.0 - Code Under the Stars",
+  "date": "2024-11-04",
+  "time": "4:00 PM (onwards)",
+  "type": "Contest",
+  "slug": "codenox-2-0-octcoder-reload-2024",
+  "image": "images/events/codenox-2-0.jpeg",
+  "registration": "https://docs.google.com/forms/d/1o2UxAAjezptfPRMhndqC70t0s9YMe300x4HtU4XFqRg",
+  "recording": "NA",
+  "body": [
+    {
+      "type": "heading",
+      "text": "🌟 CODENOX: Code Under the Stars 🌟"
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        "Organized by Turing Hut, we proudly present ",
+        {
+          "bold": "CODENOX 2.0"
+        },
+        "—a thrilling onsite coding competition ",
+        {
+          "bold": "exclusively"
+        },
+        " for VNR VJIET students. It's time to showcase your coding skills, compete with the best, and win exciting prizes!"
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "🗓 Event Details"
+    },
+    {
+      "type": "list",
+      "items": [
+        [
+          {
+            "bold": "Dates"
+          },
+          ": November 4 - 5, 2024"
+        ],
+        [
+          {
+            "bold": "Round 1 (Code Flash)"
+          },
+          ": 4:00 PM - 4:20 PM"
+        ],
+        [
+          {
+            "bold": "Round 2 (Attack on Code)"
+          },
+          ": 5:00 PM - 6:30 PM"
+        ],
+        [
+          {
+            "bold": "Round 3 (Midnight Codefest)"
+          },
+          ": 9:00 PM (Nov 4) - 7:00 AM (Nov 5)"
+        ],
+        [
+          {
+            "bold": "Mode"
+          },
+          ": Onsite"
+        ],
+        [
+          {
+            "bold": "Venue"
+          },
+          ": VNR VJIET Campus"
+        ]
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "📝 Registration"
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        "Register to participate and grab your chance to shine! ✨\n",
+        {
+          "bold": "Registration Fee"
+        },
+        ": ₹50 per participant\nTo register, submit the form by ",
+        {
+          "bold": "November 3, 2024, 11:59 PM (Sunday)"
+        },
+        "."
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "🏆 Rounds"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": [
+            {
+              "bold": "Round 1: Code Flash"
+            },
+            " ⚡"
+          ],
+          "items": [
+            [
+              {
+                "bold": "Date"
+              },
+              ": November 4, 2024"
+            ],
+            [
+              {
+                "bold": "Time"
+              },
+              ": 4:00 PM - 4:20 PM"
+            ],
+            [
+              {
+                "bold": "Platform"
+              },
+              ": ",
+              {
+                "text": "Hackerrank",
+                "href": "https://www.hackerrank.com/codenox-2-0-code-flash-erenyeager"
+              }
+            ],
+            [
+              {
+                "bold": "Qualification"
+              },
+              ": Top 98 teams advance to Round 2"
+            ]
+          ]
+        },
+        {
+          "text": [
+            {
+              "bold": "Round 2: Attack on Code"
+            },
+            " ⚔️"
+          ],
+          "items": [
+            [
+              {
+                "bold": "Date"
+              },
+              ": November 4, 2024"
+            ],
+            [
+              {
+                "bold": "Time"
+              },
+              ": 5:00 PM - 6:30 PM"
+            ],
+            [
+              {
+                "bold": "Platform"
+              },
+              ": ",
+              {
+                "text": "Hackerrank",
+                "href": "https://www.hackerrank.com/codenox-2-0-attack-on-code-ayanokoji"
+              }
+            ],
+            [
+              {
+                "bold": "Qualification"
+              },
+              ": Top 25 teams advance to Round 3"
+            ]
+          ]
+        },
+        {
+          "text": [
+            {
+              "bold": "Round 3: Midnight Codefest"
+            },
+            " 🌙"
+          ],
+          "items": [
+            [
+              {
+                "bold": "Date"
+              },
+              ": November 4 (9:00 PM) - November 5 (7:00 AM)"
+            ],
+            [
+              {
+                "bold": "Platform"
+              },
+              ": ",
+              {
+                "text": "Codeforces",
+                "href": "https://events.turinghut.org/events/codenox-2/dashboard"
+              }
+            ],
+            [
+              {
+                "bold": "Final Winners"
+              },
+              ": Top 3 teams will be crowned champions!"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "💰 Prizes"
+    },
+    {
+      "type": "list",
+      "items": [
+        [
+          {
+            "bold": "1st Prize"
+          },
+          ": ₹7,000 🥇\n",
+          {
+            "bold": "Winning Team"
+          },
+          ": ",
+          {
+            "italic": "Code Commandos"
+          },
+          "\n",
+          {
+            "bold": "Team Members"
+          },
+          ": Bellam Bhanu Prasad, Adapa Rohith Reddy"
+        ],
+        [
+          {
+            "bold": "2nd Prize"
+          },
+          ": ₹5,000 🥈\n",
+          {
+            "bold": "Winning Team"
+          },
+          ": ",
+          {
+            "italic": "Senshi"
+          },
+          "\n",
+          {
+            "bold": "Team Members"
+          },
+          ": Sirigadde Nithish Kumar, Mohammad Sahil Mohiuddin, Pendyala Varun"
+        ],
+        [
+          {
+            "bold": "3rd Prize"
+          },
+          ": ₹3,000 🥉\n",
+          {
+            "bold": "Winning Team"
+          },
+          ": ",
+          {
+            "italic": "Drink Water"
+          },
+          "\n",
+          {
+            "bold": "Team Members"
+          },
+          ": I Venkata Shashank Varma"
+        ]
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "📊 Participation Stats"
+    },
+    {
+      "type": "list",
+      "items": [
+        {
+          "text": [
+            {
+              "bold": "Total Teams Registered"
+            },
+            ": 163"
+          ],
+          "items": [
+            [
+              {
+                "bold": "4th Year"
+              },
+              ": 28 teams"
+            ],
+            [
+              {
+                "bold": "3rd Year"
+              },
+              ": 150 teams"
+            ],
+            [
+              {
+                "bold": "2nd Year"
+              },
+              ": 178 teams"
+            ],
+            [
+              {
+                "bold": "1st Year"
+              },
+              ": 12 teams"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "📊 Branch-wise Participation"
+    },
+    {
+      "type": "list",
+      "items": [
+        [
+          {
+            "bold": "CSE"
+          },
+          ": 161 Students"
+        ],
+        [
+          {
+            "bold": "CSBS"
+          },
+          ": 16 Students"
+        ],
+        [
+          {
+            "bold": "IT"
+          },
+          ": 53 Students"
+        ],
+        [
+          {
+            "bold": "CSE-AIML"
+          },
+          ": 60 Students"
+        ],
+        [
+          {
+            "bold": "CSE-CYS"
+          },
+          ": 11 Students"
+        ],
+        [
+          {
+            "bold": "CSE-DS"
+          },
+          ": 30 Students"
+        ],
+        [
+          {
+            "bold": "ECE"
+          },
+          ": 4 Students"
+        ],
+        [
+          {
+            "bold": "AIDS"
+          },
+          ": 8 Students"
+        ],
+        [
+          {
+            "bold": "EIE"
+          },
+          ": 9 Students"
+        ],
+        [
+          {
+            "bold": "IOT"
+          },
+          ": 15 Students"
+        ]
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        {
+          "bold": "Link to Leaderboard:"
+        },
+        " ",
+        {
+          "text": "https://events.turinghut.org/events/codenox-2/leaderboard",
+          "href": "https://events.turinghut.org/events/codenox-2/leaderboard"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "ℹ️ Need Help"
+    },
+    {
+      "type": "paragraph",
+      "text": "For any queries, reach out to:"
+    },
+    {
+      "type": "list",
+      "items": [
+        [
+          {
+            "bold": "Koushik"
+          },
+          ": 7396910024"
+        ],
+        [
+          {
+            "bold": "Divya"
+          },
+          ": 9704606266"
+        ]
+      ]
+    }
+  ]
+}

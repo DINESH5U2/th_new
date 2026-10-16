@@ -1,0 +1,704 @@
+{
+  "title": "NewsLetter 26",
+  "date": "2025-11-09",
+  "time": "05-02-2023, 12:00 PM to 22-05-2022, 23:59 PM",
+  "type": "Newsletter",
+  "slug": "26",
+  "image": "images/newsletter/2025nsltr-000.png",
+  "registration": "NA",
+  "recording": "NA",
+  "contestlink": "NA",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": [
+        "Greetings readers,\nThis relaunch edition takes you through ",
+        {
+          "bold": "Turing Hut's journey in 2025"
+        },
+        ", a year filled with innovation, learning, and collaboration. From thrilling coding contests and insightful workshops to community milestones and impactful initiatives, this newsletter captures the essence of what made 2025 an exciting chapter in our story. Dive in as we revisit the moments that defined our year at Turing Hut!"
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "CodeRush – Fastest Fingers First"
+    },
+    {
+      "type": "image",
+      "src": "images/newsletter/2025nsltr-002.jpg",
+      "alt": "CodeRush Event"
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        "Exclusively for ",
+        {
+          "bold": "1st and 2nd-year students"
+        },
+        ", this C programming showdown tested speed and logic, drawing ",
+        {
+          "bold": "200+ enthusiastic participants"
+        },
+        " on ",
+        {
+          "bold": "February 21, 2025"
+        },
+        "."
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "Convergence Coding Contest 2K25"
+    },
+    {
+      "type": "image",
+      "src": "images/newsletter/2025nsltr-001.jpg",
+      "alt": "Convergence Contest"
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        "2K25 witnessed ",
+        {
+          "bold": "500+ participants"
+        },
+        " from across the nation showcasing their coding prowess."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        "With ",
+        {
+          "bold": "Round 1 online on February 17, 2025"
+        },
+        ", and the ",
+        {
+          "bold": "grand finale offline on February 22, 2025"
+        },
+        ", the event delivered intense problem-solving action."
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "Turing Cup 2K25 – One Team. One Dream"
+    },
+    {
+      "type": "gallery",
+      "images": [
+        {
+          "src": "images/newsletter/2025nsltr-006.jpg",
+          "alt": "Turing Cup 2K25"
+        },
+        {
+          "src": "images/newsletter/2025nsltr-007.jpg",
+          "alt": "Turing Cup 2K25"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        "The flagship national-level coding contest of Turing Hut, ",
+        {
+          "bold": "Turing Cup 2K25"
+        },
+        ", brought together ",
+        {
+          "bold": "1400+ top coders"
+        },
+        " from leading institutes across India."
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Online Qualifier: HackerRank (April 7, 2025)",
+        "Grand Finale: Codeforces at VNRVJIET (April 19, 2025)"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The contest showcased unmatched competitive spirit, teamwork, and coding excellence, standing tall as one of the most prestigious nationwide coding battles of the year."
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "Competitive Programming Workshop – Where Curiosity Meets Code"
+    },
+    {
+      "type": "gallery",
+      "images": [
+        {
+          "src": "images/newsletter/2025nsltr-008.jpg",
+          "alt": "CP Workshop"
+        },
+        {
+          "src": "images/newsletter/2025nsltr-009.jpg",
+          "alt": "CP Workshop"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        "Turing Hut organized a ",
+        {
+          "bold": "two-day online Competitive Programming Workshop"
+        },
+        " on ",
+        {
+          "bold": "July 5–6, 2025"
+        },
+        ", for first-year students."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The sessions covered:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Core algorithms",
+        "Problem-solving strategies",
+        "Popular coding platforms"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "This was followed by a hands-on contest. Participants showcased great enthusiasm, tackling real-time challenges with passion and skill."
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "CodeFrenzy 2K25 – Selection Contest for 2nd Years"
+    },
+    {
+      "type": "gallery",
+      "images": [
+        {
+          "src": "images/newsletter/2025nsltr-010.jpg",
+          "alt": "CodeFrenzy"
+        },
+        {
+          "src": "images/newsletter/2025nsltr-011.png",
+          "alt": "CodeFrenzy"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        "Turing Hut hosted ",
+        {
+          "bold": "CodeFrenzy 2K25"
+        },
+        " on ",
+        {
+          "bold": "30th August 2025"
+        },
+        ", from ",
+        {
+          "bold": "1:40 PM to 4:00 PM"
+        },
+        ", in the onsite labs at VNRVJIET."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        "Serving as the official selection contest for second-year students to join its peer-to-peer learning program, the event was conducted on ",
+        {
+          "bold": "HackerRank"
+        },
+        " and tested participants' coding logic, analytical thinking, and problem-solving skills."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Top performers earned a spot in Turing Hut's program, fostering collaboration, mentorship, and growth in competitive programming."
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "Decode ICPC"
+    },
+    {
+      "type": "gallery",
+      "images": [
+        {
+          "src": "images/newsletter/2025nsltr-012.jpg",
+          "alt": "Decode ICPC"
+        },
+        {
+          "src": "images/newsletter/2025nsltr-013.jpg",
+          "alt": "Decode ICPC"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        "Turing Hut hosted ",
+        {
+          "bold": "Decode ICPC"
+        },
+        " on ",
+        {
+          "bold": "6th October 2025"
+        },
+        ", an inspiring online session featuring alumni:"
+      ]
+    },
+    {
+      "type": "list",
+      "items": ["K. Sreekar Vyas", "D. Nisritha Reddy", "I. Shashank Varma"]
+    },
+    {
+      "type": "paragraph",
+      "text": "They shared insights and strategies to help students prepare for the ICPC Regionals and strengthen their problem-solving skills."
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "CODEVERSE – The Battle for the Perfect Algorithm Begins"
+    },
+    {
+      "type": "gallery",
+      "images": [
+        {
+          "src": "images/newsletter/2025nsltr-014.jpg",
+          "alt": "CODEVERSE"
+        },
+        {
+          "src": "images/newsletter/2025nsltr-015.jpg",
+          "alt": "CODEVERSE"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        "Turing Hut hosted ",
+        {
+          "bold": "CODEVERSE"
+        },
+        ", an Avengers-themed flagship coding competition, on ",
+        {
+          "bold": "28th and 29th October 2025"
+        },
+        " at VNRVJIET."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The competition featured three exciting rounds:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Coders Assemble",
+        "Codefinity War",
+        "End Game: The Final Battle"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        "The event culminated in a ",
+        {
+          "bold": "4-hour ICPC-style finale on Codeforces"
+        },
+        ". With ",
+        {
+          "bold": "150+ teams"
+        },
+        " competing for a ",
+        {
+          "bold": "₹15,000 prize pool"
+        },
+        ", CODEVERSE was an electrifying showcase of skill, speed, and strategy."
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "Convergence Coding Contest 2K25"
+    },
+    {
+      "type": "gallery",
+      "images": [
+        {
+          "src": "images/newsletter/2025nsltr-016.jpg",
+          "alt": "Convergence Contest"
+        },
+        {
+          "src": "images/newsletter/2025nsltr-017.jpg",
+          "alt": "Convergence Contest"
+        },
+        {
+          "src": "images/newsletter/2025nsltr-018.jpg",
+          "alt": "Convergence Contest"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "ICPC Shoutout – Chennai Regionals 2024"
+    },
+    {
+      "type": "gallery",
+      "images": [
+        {
+          "src": "images/newsletter/2025nsltr-019.jpg",
+          "alt": "ICPC Chennai"
+        },
+        {
+          "src": "images/newsletter/2025nsltr-020.jpg",
+          "alt": "ICPC Chennai"
+        }
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": "Team \"Wrong Angled Triangle\""
+    },
+    {
+      "type": "list",
+      "items": [
+        "Sreekar Vyas Kurudi",
+        "Nisritha Reddy Dampuru",
+        "Shashank Varma Indukuri"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        "Achieved ",
+        {
+          "bold": "All India Rank 42"
+        },
+        ", topping all other college teams in RankList2 and qualifying for the ",
+        {
+          "bold": "ICPC Chennai Regionals 2024"
+        },
+        "."
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": "Team \"StrawHatz\""
+    },
+    {
+      "type": "list",
+      "items": ["Prabhas Koya", "D. Manorath Reddy", "Arvind Sai R"]
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        "Secured ",
+        {
+          "bold": "All India Rank 73"
+        },
+        ", topping all other college teams in RankList1 and qualifying for the ",
+        {
+          "bold": "ICPC Chennai Regionals 2024"
+        },
+        "."
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "ICPC Amritapuri Regionals 2024"
+    },
+    {
+      "type": "gallery",
+      "images": [
+        {
+          "src": "images/newsletter/2025nsltr-022.jpg",
+          "alt": "ICPC Amritapuri"
+        },
+        {
+          "src": "images/newsletter/2025nsltr-023.jpg",
+          "alt": "ICPC Amritapuri"
+        }
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": "Team \"Wrong Angled Triangle\""
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        "Achieved ",
+        {
+          "bold": "All India Rank 90"
+        },
+        ", topping all other college teams in RankList2 and representing the college at the ",
+        {
+          "bold": "ICPC Amritapuri Regionals 2024"
+        },
+        "."
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": "Team \"StrawHatz\""
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        "Secured ",
+        {
+          "bold": "All India Rank 137"
+        },
+        ", topping all other college teams in RankList1 and representing the college at the ",
+        {
+          "bold": "ICPC Amritapuri Regionals 2024"
+        },
+        "."
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        "And that marks the end of ",
+        {
+          "bold": "Turing Hut's journey through 2025"
+        },
+        "."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Now, take a moment to unscramble the words and put your minds to the test!"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "Game of Code Play"
+    },
+    {
+      "type": "image",
+      "src": "images/newsletter/2025nsltr-021.jpg",
+      "alt": "Game of Code Play"
+    },
+    {
+      "type": "subheading",
+      "text": "Instructions"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "A scrambled word will be provided along with a hint from the world of coding.",
+        "Read the hint carefully.",
+        "Unscramble the letters to form the correct word."
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": [
+        "Your ",
+        {
+          "code": "<Time/>"
+        },
+        " Starts Now"
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "marker": "alpha",
+      "items": [
+        "GREMOREST → Stable O(n log n) sort",
+        "ZIMPOTIE → Make code run faster",
+        "BASHTEHAL → Key–value table",
+        "PONEXCITE → Error-handling",
+        "OEDFRSCEOC → Popular online coding platform",
+        "TRANSCONITS → Limits/rules given in a problem",
+        "TURNER → Gives something back",
+        "TACKS → LIFO data structure",
+        "YINABR → Base representation for bit manipulation",
+        "LAYED → What sometimes causes TLE"
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "Interesting Reads"
+    },
+    {
+      "type": "gallery",
+      "images": [
+        {
+          "src": "images/newsletter/2025nsltr-024.jpg",
+          "alt": "Interesting Reads"
+        },
+        {
+          "src": "images/newsletter/2025nsltr-025.jpg",
+          "alt": "Interesting Reads"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        [
+          {
+            "bold": "AtCoder's Milestone & AI Integration"
+          },
+          "\nAtCoder, Japan's leading competitive programming platform, surpassed ",
+          {
+            "bold": "800,000 global registrations"
+          },
+          ", continuing its remarkable growth since 2016. With AI transforming the coding landscape, AtCoder partnered with ",
+          {
+            "bold": "Sakana AI"
+          },
+          " to launch ALE-Bench and even hosted an ",
+          {
+            "bold": "AI vs Humans exhibition match"
+          },
+          " sponsored by OpenAI."
+        ],
+        {
+          "text": [
+            {
+              "bold": "Beginner's Guide to Competitive Programming"
+            },
+            "\nA beginner's guide to competitive programming covering:"
+          ],
+          "items": [
+            [
+              "Languages like ",
+              {
+                "bold": "C++"
+              },
+              " and ",
+              {
+                "bold": "Java"
+              }
+            ],
+            [
+              "Platforms such as ",
+              {
+                "bold": "CodeChef"
+              },
+              " and ",
+              {
+                "bold": "AtCoder"
+              }
+            ],
+            [
+              "Core topics including ",
+              {
+                "bold": "Data Structures"
+              },
+              ", ",
+              {
+                "bold": "Algorithms"
+              },
+              ", and ",
+              {
+                "bold": "Dynamic Programming"
+              }
+            ],
+            [
+              "Resources like ",
+              {
+                "bold": "cp-algorithms"
+              },
+              " and ",
+              {
+                "bold": "CSES"
+              }
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Todo Problem"
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        "Here's a great problem we think you'll enjoy solving:\n",
+        {
+          "bold": "Problem link"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        "Have any experiences, opportunities, or articles to share? Fill out this ",
+        {
+          "text": "form",
+          "href": "https://docs.google.com/forms/d/e/1FAIpQLSfdaR5IK8B9RZx-5G3cd4_G4RMsLIaHRMWpGWzTwMyuMdCeWg/viewform"
+        },
+        " for a chance to be featured in our next newsletter."
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        {
+          "bold": "Answers (Game of Code Play):"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "MERGESORT, OPTIMIZE, HASH TABLE, EXCEPTION, CODEFORCES, CONSTRAINTS, RETURN, STACK, BINARY, DELAY"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thanks to the Turing Hut team for contributing to the newsletter"
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        {
+          "italic": "From the desk of Turing Hut"
+        }
+      ]
+    }
+  ]
+}
